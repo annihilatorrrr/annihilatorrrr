@@ -22,16 +22,16 @@ Get all My Basic Data 📜!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annihilatorrrr)](https://github.com/annihilatorrrr)
 
 
-Hi, I'm Annihilator Spark 😉, A NOOB, A curiouse student 👨💻 From India 🇮🇳.I like Python language 🐍, not snake lol. Beside's programming, I like Delicious food 🥗🥩🌮🍣 and Doing electronics projects .
+Hi, I'm Annihilator Spark 😉, A NOOB, A curiouse student 👨💻 From India 🇮🇳. I like Python language 🐍, not snake lol. Beside's programming, I like Doing electronic projects and watch movies..
 
 **Current Status**
 
-## Me iz from ![](https://img.shields.io/badge/-India-white)
+## Living in ![](https://img.shields.io/badge/-India-white)
 
 - [find me on telegram to Contact me](https://t.me/annihilatorrrr) !
 
-- 👨💻 I’m currently working on a mission !
-- 🌱 I’m currently learning ___IDK___ .
+- 👨💻 I’m currently working on a mission to learn as much as possible!
+- 🌱 I’m currently learning GO Lang, Ruby (69), Python (+).
 - 🤔 My research interests are with electronis, softwares codes !!
 
 - ⭐️ From [ÁÑÑÍHÌLÅTØR SPÄRK](https://github.com/annihilatorrrr)
