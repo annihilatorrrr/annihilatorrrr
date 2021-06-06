@@ -3,11 +3,6 @@
 Get all My Basic Data 📜!!
 ### Welcome to my GIT Hub page, Hellow dear Devs, and lol kangers ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-- My Gmail ---- >>> }}}
-<a href="tanmoyomg7@gmail.com">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
 <p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=annihilatorrrr" alt="annihilatorrrr" /></a> </p>
@@ -21,8 +16,27 @@ Get all My Basic Data 📜!!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" /></p>
 
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/></p>
 
-<br>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮🇳.
 
@@ -34,5 +48,3 @@ Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮
 
 - I’m currently learning GO Lang, Ruby (69), Python (+).
 - My bot in tg that i have modified repo is [@ameliaprobot](https//t.me/ameliaprobot) for my [@memerschatgroup](https://t.me/memerschatgroup)
-
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/></p>
