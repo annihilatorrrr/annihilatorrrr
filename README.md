@@ -20,14 +20,6 @@ Get all My Basic Data 📜!!
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮🇳.
 
