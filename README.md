@@ -21,7 +21,8 @@ Get all My Basic Data 📜!!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" /></p>
 
-<br />
+
+<br>
 
 Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮🇳.
 
