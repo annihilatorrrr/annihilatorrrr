@@ -21,13 +21,13 @@ Get all My Basic Data 📜!!
 <br />
 <br />
 
-Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮🇳.
+## Hi, I'm Annihilator Spark !, A NOOB, A curiouse student 👨💻 From India 🇮🇳.
 
 **Current Status**
 
 ## Living in ![](https://img.shields.io/badge/-India-white)
 
-## - 📫 Reach me via Telegram - [@annihilatorrrr](https://t.me/annihilatorrrr) !
+## 📫 Reach me via Telegram - [@annihilatorrrr](https://t.me/annihilatorrrr) !
 
 - I’m currently learning GO Lang, Ruby (69), Python (+).
 - My bot in tg that i have modified repo is [@ameliaprobot](https//t.me/ameliaprobot) for my [@memerschatgroup](https://t.me/memerschatgroup)
