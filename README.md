@@ -16,7 +16,7 @@ Get all My Basic Data 📜!!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&theme=juicyfresh&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/></p>
 
 <br />
 <br />
