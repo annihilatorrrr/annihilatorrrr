@@ -1,7 +1,7 @@
-# Annihilator
+# Annihilator spark
 
 Get all My Basic Data 📜!!
-### Welcome to my GIT Hub page, Hellow dear Devs, and lol kangers ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Welcome to my GIT Hub page ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
