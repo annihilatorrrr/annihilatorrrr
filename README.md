@@ -34,5 +34,5 @@ Get all My Basic Data 📜!!
 
 ## 📫 Reach me via Telegram - [@annihilatorrrr](https://t.me/annihilatorrrr) !
 
-- I’m currently learning GO Lang, PHP, Ruby (69), Python (+).
-- My bot in tg that i have modified repo is [@ameliaprobot](https//t.me/ameliaprobot) for my [@memerschatgroup](https://t.me/memerschatgroup)
+- I’m currently learning GO Lang, PHP, Python (+).
+
