@@ -3,6 +3,8 @@
 Get all My Basic Data 📜!!
 ### Welcome to my GIT Hub page ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
+## Hi, I'm Annihilator Spark ! A NOOB, A curiouse student From India 🇮🇳.
+
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
 <p align="left"> <a href="https://github.com/annihilatorrrr"><img src="https://github-profile-trophy.vercel.app/?username=annihilatorrrr&theme=juicyfresh&no-bg=true&no-frame=true&column=4&" alt="annihilatorrrr" /></a> </p>
@@ -10,6 +12,17 @@ Get all My Basic Data 📜!!
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
+
+###  📊 Stats
+[![Stas](https://metrics.lecoq.io/annihilatorrrr?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)]
+---
+
+### 🔗 Contanct me via:
+<a href="https://github.com/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" /></a>
+<a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a> 
+<a href="mailto:tanmoyomg7@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /></a>
+</br>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -27,12 +40,6 @@ Get all My Basic Data 📜!!
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/>
 </p>
 
+
 <br />
 <br />
-
-## Hi, I'm Annihilator Spark ! A NOOB, A curiouse student 👨💻 From India 🇮🇳.
-
-## 📫 Reach me via Telegram - [@annihilatorrrr](https://t.me/annihilatorrrr) !
-
-- I’m currently learning GO Lang, PHP, Python (+).
-
