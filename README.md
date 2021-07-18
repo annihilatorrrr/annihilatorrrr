@@ -1,9 +1,6 @@
-# Annihilator spark
-
+## Welcome to my GIT Hub page ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 Get all My Basic Data 📜!!
-### Welcome to my GIT Hub page ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-
-## Hi, I'm Annihilator Spark ! A NOOB, A curiouse student From India 🇮🇳.
+## Hi, I'm Annihilator Spark! A NOOB, A curiouse student From India!
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
@@ -14,7 +11,7 @@ Get all My Basic Data 📜!!
 ![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
 
 ###  📊 Stats
-[![Stas](https://metrics.lecoq.io/annihilatorrrr?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)]
+![](https://metrics.lecoq.io/annihilatorrrr?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)
 ---
 
 ### 🔗 Contanct me via:
@@ -39,7 +36,3 @@ Get all My Basic Data 📜!!
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" />
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/>
 </p>
-
-
-<br />
-<br />
