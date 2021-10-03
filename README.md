@@ -30,11 +30,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> </p>
 
-<p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=annihilatorrrr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="annihilatorrrr" />
-    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=annihilatorrrr&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="ÁÑÑÍHÌLÅTØR SPÄRK"/>
-</p>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/annihilatorrrr/&title=Profile%20Views&edge_flat=true)](https://github.com/annihilatorrrr)
