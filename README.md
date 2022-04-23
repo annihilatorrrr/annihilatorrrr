@@ -8,11 +8,13 @@
 
 <br />
 
-#  📊 Stats
+#  📊 Stats:
 ![Metrics](https://metrics.lecoq.io/annihilatorrrr?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&activity=1&achievements=1&notable=1&discussions=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=3&followup.sections=repositories&followup.indepth=true&people.limit=28&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=true&activity.limit=3&activity.load=300&activity.days=15&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=true&discussions.categories=true&discussions.categories.limit=0&config.timezone=Asia%2FCalcutta)
 ---
 > 🔑 90 Private Repositories.
 ---
+
+![](https://activity-graph.herokuapp.com/graph?username=annihilatorrrr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=chartreuse-dark)
 
 # 🔗 Contact me via:
 <a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a> 
