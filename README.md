@@ -15,6 +15,7 @@
 ---
 
 ![](https://activity-graph.herokuapp.com/graph?username=annihilatorrrr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=chartreuse-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=annihilatorrrr&theme=earth&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # 🔗 Contact me via:
 <a href="https://telegram.dog/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a> 
