@@ -25,15 +25,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/redis/redis-original.svg" alt="github" width="40" height="40"/> </a>
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-    <a href="https://deno.land" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40"/> </a>
-    <a href="https://docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" alt="pycharm" width="40" height="40"/> </a> </p>
+    <a href="https://deno.land" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40"/> </a>
+    <a href="https://docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/develop/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/go/go-original.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/clion/clion-original.svg" alt="Clion" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/goland/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/goland/goland-original.svg" alt="Goland" width="40" height="40"/> </a> </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr)
