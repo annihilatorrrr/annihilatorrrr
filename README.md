@@ -1,6 +1,6 @@
 # Welcome to my GITHUB page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-## Hi, I'm Annihilator Spark! A curiouse student from unknown imagination!
+## Hello, I'm Annihilator Spark, a curious student hailing from the realm of boundless imagination!
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
