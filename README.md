@@ -38,4 +38,4 @@
     <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/clion/clion-original.svg" alt="Clion" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/goland/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/goland/goland-original.svg" alt="Goland" width="40" height="40"/> </a> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=annihilatorrrr.visitor-badge&left_color=red&right_color=green)
+[![](https://visitcount.itsvg.in/api?id=annihilatorrrr&label=Visits&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
