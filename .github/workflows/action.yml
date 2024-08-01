@@ -82,5 +82,4 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
-        secrets: inherit
           plugin_topics_sort: stars
