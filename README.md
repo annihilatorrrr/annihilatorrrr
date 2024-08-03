@@ -4,13 +4,9 @@
 
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1609274174641.png" width="495px">
 
-<br />
+<br/>
 
-![Metrics](/github-metrics.svg)
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=annihilatorrrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=annihilatorrrr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![Metrics](/github-metrics.svg) <br/>
 
 ---
 > 🔑 200+ Private Repositories.
