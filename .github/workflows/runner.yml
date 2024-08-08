@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: github.actor != 'imgbot[bot]' && github.event_name == 'pull_request
+    if: github.actor != 'imgbot[bot]'
     steps:
       - uses: lowlighter/metrics@latest
         with:
