@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    if: github.actor != 'imgbot[bot]'
     steps:
       - uses: lowlighter/metrics@latest
         with:
