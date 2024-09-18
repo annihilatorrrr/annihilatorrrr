@@ -30,7 +30,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 10
-          plugin_habits_languages_threshold: 0%
+          plugin_habits_languages_threshold: 1%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
