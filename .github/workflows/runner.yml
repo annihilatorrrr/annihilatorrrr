@@ -28,7 +28,7 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_days: 15
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 1%
           plugin_isocalendar: yes
@@ -44,7 +44,7 @@ jobs:
           plugin_languages_recent_days: 15
           plugin_languages_recent_load: 300
           plugin_languages_sections: recently-used
-          plugin_languages_threshold: 10%
+          plugin_languages_threshold: 7.5%
           plugin_languages_details: lines
           plugin_lines: yes
           plugin_lines_history_limit: 1
