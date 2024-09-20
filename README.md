@@ -37,6 +37,8 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/clion/clion-original.svg" alt="Clion" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/goland/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/goland/goland-original.svg" alt="Goland" width="40" height="40"/> </a>
+    <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/cloudflare/cloudflare-original.svg" alt="Goland" width="40" height="40"/> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/bash/bash-original.svg" alt="Goland" width="40" height="40"/> </a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=annihilatorrrr&label=Visits&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
