@@ -17,7 +17,7 @@
 
 # 🔗 Contact me via:
 <a href="https://telegram.me/annihilatorrrr"><img align="left" alt="annihilatorrrr" width="28px" src="https://telegram.org/img/t_logo.png?1" /></a> 
-<a href="mailto:tanmoyomg7@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
+<a href="mailto:annihilatorspark@gmail.com"><img align="left" alt="annihilatorrrr" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
 </br>
 ---
 
