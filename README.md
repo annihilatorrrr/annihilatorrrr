@@ -9,12 +9,13 @@
     "backend, infra, CLIs — built lean, built fast",
     "bloat is a bug",
     "less mem, less syscalls, more perf",
-    "runs on alpine or it doesn't ship"
+    "runs on alpine or it doesn't ship",
+    "current stable or nothing"
   ],
   "toolbox": {
     "langs": {"C", "Rust", "Go", "Python3", "JS/TS", "Bash"},
     "runtimes": "Deno",
-    "databases": "PostgreSQL, Redis, MongoDB",
+    "databases": {"PostgreSQL", "Redis", "MongoDB"},
     "tools": {"Git", "Goland", "PyCharm", "CLion", "Coolify", "Cloudflare Tunnel", "Termius"},
     "platforms": {"Render", "Vercel", "Cloudflare Workers", "Deno Deploy"}
     "web": {"HTML"},
