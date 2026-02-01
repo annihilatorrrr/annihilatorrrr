@@ -16,8 +16,8 @@
     "langs": {"C", "Rust", "Go", "Python3", "JS/TS", "Bash"},
     "runtimes": "Deno",
     "databases": {"PostgreSQL", "Redis", "MongoDB"},
-    "tools": {"Git", "Goland", "PyCharm", "CLion", "Coolify", "Cloudflare Tunnel", "Termius"},
-    "platforms": {"Render", "Vercel", "Cloudflare Workers", "Deno Deploy"}
+    "tools": {"Git", "Goland", "PyCharm", "CLion", "Coolify", "Cloudflare", "Termius"},
+    "platforms": {"Render", "Vercel", "Cloudflare", "Deno Deploy", "Koyeb", "Heroku"}
     "web": {"HTML"},
     "docker": {"alpine", "debian-slim"},
   },
